@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Characterizing the Problem
+title: Why is waste is a great problem?
 nav_order: 1
 nav_exclude: false
 ---
