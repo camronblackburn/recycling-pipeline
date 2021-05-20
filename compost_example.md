@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Composting as an Example
-nav_order: 4
+title: Proposed Solutions
+nav_order: 3
 nav_exclude: false
 ---
 
