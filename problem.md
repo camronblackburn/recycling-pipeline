@@ -27,4 +27,13 @@ Interactive plot found [here](https://cfpub.epa.gov/ghgdata/inventoryexplorer/#w
 ![Waste by gas](img/problem_waste_gas.png)
 Interactive plot found [here](https://cfpub.epa.gov/ghgdata/inventoryexplorer/#waste/entiresector/allgas/gas/all).
 
-In 2019, the total US methane emission was 659.71 MMT CO2 (million metric tons of carbon dioxide equivalent), while the methane emissions from waste alone were at 135.35 MMT CO2. Therefore, waste management (mostly 'landfill and other disposal' methods) accounted for about **21% of all methane emission in 2019**. This is a rather sizable contribution. 
+In 2019, the total US methane emission was 659.71 MMT CO2 (million metric tons of carbon dioxide equivalent), while the methane emissions from waste alone were at 135.35 MMT CO2. Therefore, waste management (mostly 'landfill and other disposal' methods) accounted for about **21% of all methane emission in 2019**. This is a rather sizable contribution.
+
+![Methane by sector](img/problem_methane_sector.png)
+
+2021 GHG report [chapter 7 focuses entirely on Waste](https://www.epa.gov/sites/production/files/2021-04/documents/us-ghg-inventory-2021-chapter-7-waste.pdf)
+
+## E-waste
+Electronic waste imposes a significant challenge because there can be a lot of toxic waste within it.
+
+Many electronic components are soldered with lead, which is released into the air when melted or burned to retrieve recyclable parts.
