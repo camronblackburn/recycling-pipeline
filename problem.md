@@ -59,6 +59,10 @@ Interactive plot found [here](https://cfpub.epa.gov/ghgdata/inventoryexplorer/#w
 
 In 2019, the total US methane emission was 659.71 MMT CO2 (million metric tons of carbon dioxide equivalent), while the methane emissions from waste alone were at 135.35 MMT CO2. Therefore, waste management (mostly 'landfill and other disposal' methods) accounted for about **21% of all methane emission in 2019**. This is a rather sizable contribution.
 
-![Methane by sector](img/problem_methane_sector.png)
+The 2021 Greenhouse Gas Inventory report has a [whole chapter on waste](https://www.epa.gov/sites/production/files/2021-04/documents/us-ghg-inventory-2021-chapter-7-waste.pdf). This chapter explains that Landfills accounted for ~17.4% of all US anthropogenic methane emissions in 2019, which is the third largest contributing source. Additionally, wastewater treatment and organic composting is responsible for 6.2 percent of all Nitrous oxide emissions.
 
-2021 GHG report [chapter 7 focuses entirely on Waste](https://www.epa.gov/sites/production/files/2021-04/documents/us-ghg-inventory-2021-chapter-7-waste.pdf)
+![Waste summary](img/problem_waste_chapter.png)
+
+Additionally, the [EPA methane emissions summary page](https://www.epa.gov/ghgemissions/overview-greenhouse-gases#methane) provides this graphic, attributing 15% of all methane release to MSW landfills.
+
+![Methane by sector](img/problem_methane_sector.png)
